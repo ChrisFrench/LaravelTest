@@ -1,4 +1,4 @@
-#How to Test 
+How to Test 
 
 git clone git@github.com:ChrisFrench/LaravelTest.git 
 
